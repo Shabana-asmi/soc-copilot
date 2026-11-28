@@ -5,3 +5,5 @@ __pycache__/
 mlruns/
 *.pkl
 .ipynb_checkpoints/
+# MLflow records file
+mlflow.db
